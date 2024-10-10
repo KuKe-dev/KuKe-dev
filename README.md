@@ -1,3 +1,5 @@
-![My image](img/PDC_0880%20(1).jpg)
+<p align="center">
+    <img width="200" src="img/">
+</p>
 
 # **Hola soy kuke** 
