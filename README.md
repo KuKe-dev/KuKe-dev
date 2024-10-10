@@ -3,3 +3,5 @@
 </p>
 
 <h1 align="center">Hey 👋, I'm Luca Di Bene</h1>
+------------
+<h2>About me:</h2>
