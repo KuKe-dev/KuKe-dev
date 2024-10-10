@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">Hey 👋, I'm Luca Di Bene</h1>
-<br>
 <h1>About me:</h1>
 <b>I’m Luca Di Bene, a Physics student and web developer with a focus on frontend development. Although my academic background is in science, my passion for technology led me to learn web development, where I found a fascination for creating interactive and visually appealing interfaces that provide a great user experience.
 <br>
