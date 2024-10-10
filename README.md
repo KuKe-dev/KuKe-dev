@@ -13,6 +13,6 @@
 <b>ASDFASDFASDFASDFASDFASDFASDFSAF</b>
 <br>
 
-<h2>Proyects</h2>
+<h2>Proyects:</h2>
 
 <b>Coming soon...</b>
