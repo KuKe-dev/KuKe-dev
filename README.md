@@ -3,10 +3,12 @@
 </p>
 
 <h1 align="center">Hey 👋, I'm Luca Di Bene</h1>
-<br>
+<br/>
 <h1>About me:</h1>
 <p font-size="30px">ASDFASDFASDFASDFASDFASDFASDFSAF</p>
-<br>
+<br/>
 <h1>Technologies</h1>
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+
 <h2>Proyects</h2>
