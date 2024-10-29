@@ -11,9 +11,3 @@ I am a self-taught, organized person with strong problem-solving skills, which h
 <h1>Technologies</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
-
-<br>
-
-<h2>Proyects:</h2>
-
-<b>Coming soon...</b>
