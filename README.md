@@ -14,4 +14,4 @@ I am a self-taught, organized person with strong problem-solving skills, which h
 
 <h1>Still learning...</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=ExpressJS)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
