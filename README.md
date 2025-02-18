@@ -8,7 +8,7 @@
 <br>
 Lately, I've been exploring backend development, learning Express.js and PostgreSQL to better understand how the frontend connects with databases and APIs.
 <br>
-I'm a self-taught and organized person with strong problem-solving skills, which has helped me learn quickly. Right now, I'm improving my skills in HTML, CSS, JavaScript, and React to create modern and efficient projects.</b>
+Right now, I'm expanding my backend knowledge with Express.js and PostgreSQL to build more complete and dynamic web applications.</b>
 
 <h1>Technologies</h1>
 
