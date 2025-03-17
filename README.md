@@ -4,11 +4,8 @@
 
 <h1 align="center">Hey 👋, I'm Luca Di Bene</h1>
 <h1>About me:</h1>
-<b>I'm a web developer with a focus on frontend development. I enjoy building interactive and visually appealing interfaces that enhance user experience.
-<br>
-Lately, I've been exploring backend development, learning Express.js and PostgreSQL to better understand how the frontend connects with databases and APIs.
-<br>
-Right now, I'm expanding my backend knowledge with Express.js and PostgreSQL to build more complete and dynamic web applications.</b>
+<b>I am a web developer interested in building functional and engaging digital experiences. I enjoy working on both the frontend and backend, exploring how interfaces connect with server logic to create complete applications.<br>
+Lately, I’ve been learning more about Express.js and PostgreSQL to better understand data management and design efficient APIs. I enjoy solving problems, optimizing workflows, and experimenting with new tools to make applications more dynamic and scalable. My goal is to continue expanding my knowledge in web development to contribute versatile and well-structured solutions.</b>
 
 <h1>Technologies</h1>
 
