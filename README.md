@@ -14,4 +14,4 @@ Lately, I’ve been learning more about Express.js and PostgreSQL to better unde
 
 <h1>Back Technologies</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,java,spring)](https://skillicons.dev)
