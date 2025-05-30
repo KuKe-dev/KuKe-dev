@@ -4,9 +4,7 @@
 
 <h1 align="center">Hey 👋, I'm Luca Di Bene</h1>
 <h1>About me:</h1>
-<b>I am a web developer interested in building functional and engaging digital experiences. I enjoy working on both the frontend and backend, exploring how interfaces connect with server logic to create complete applications.<br>
-
-Lately, I’ve been learning more about Express.js and PostgreSQL to better understand data management and design efficient APIs. I enjoy solving problems, optimizing workflows, and experimenting with new tools to make applications more dynamic and scalable. My goal is to continue expanding my knowledge in web development to contribute versatile and well-structured solutions.</b>
+<b>I'm a full-stack developer passionate about creating innovative digital experiences. With expertise in modern technologies like React, Java, and JavaScript, I specialize in building robust and scalable web applications that combine exceptional functionality with appealing design.</b>
 
 <h1>Front Technologies</h1>
 
