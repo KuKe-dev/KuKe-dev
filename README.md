@@ -12,4 +12,4 @@
 
 <h1>Back Technologies</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,java,spring)](https://skillicons.dev)
